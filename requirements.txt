@@ -1,6 +1,0 @@
-# Run this with --no-cache-dir if your system is low on RAM
-wheel
-jupyter
-tensorflow
-pandas
-numpy==1.18.4
