@@ -1,6 +1,8 @@
-.env
+# IDE / editor specific configs
 .vscode
-venv
 
 # Testing files
 donotinclude
+
+# Downloaded files
+EMNIST
